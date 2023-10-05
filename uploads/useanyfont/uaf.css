@@ -1,0 +1,13 @@
+				@font-face {
+					font-family: 'oxanium';
+					src: url('/wp-content/uploads/useanyfont/5765Oxanium.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/5765Oxanium.woff') format('woff');
+					font-weight: 100; font-style: normal; font-display: auto;
+				}
+
+				.oxanium{font-family: 'oxanium' !important;}
+
+						.site-title, .site-description{
+					font-family: 'oxanium' !important;
+				}
+		
